@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.AspNetCore.Hosting;
 
-namespace ConsoleApplication
+namespace ASPNETRC2FromScratch
 {
     public class Program
     {
